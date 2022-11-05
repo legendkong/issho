@@ -11,8 +11,8 @@ Back-End: <br>
 [MongoDB](https://www.mongodb.com/)<br>
 [Mongoose](https://mongoosejs.com/)<br>
 <br>
-
-## Use Issho to create, and collaborate on online documents. Edit together with secure sharing in real-time and from any device.
+## Features
+Use Issho to create, and collaborate on online documents. Edit together with secure sharing in real-time and from any device.
 <br>
 <p align="center">
   <img src="https://github.com/legendkong/issho/blob/master/readme_images/collaborate.png?raw=true" width="800">
