@@ -15,7 +15,7 @@ Back-End: <br>
 ## Features
 Use Issho to create, and collaborate on online documents. Edit together with secure sharing in real-time and from any device.
 <p align="center">
-  <img src="https://github.com/legendkong/issho/blob/master/readme_images/collaborate.png?raw=true" width="800">
+  <img src="https://github.com/legendkong/issho/blob/master/readme_images/collaborate.png?raw=true" width="800" style="border: 3px solid red">
 </p>
 
 
