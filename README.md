@@ -49,4 +49,16 @@ Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you 
 </p>
 
 
+<br>
+<br>
+<br>
+<br>
+Preview 📰 your work before sending it into the prrrrrinter. 
+<br>
+<p align="center">
+  <img src="https://github.com/legendkong/issho/blob/master/readme_images/printpreview.png?raw=true" width="800"> <br>
+  Issho will always configured to be an A4-sized paper so that you don't have to worry about your print configs.
+</p>
+
+
 
