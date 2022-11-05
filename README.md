@@ -53,8 +53,9 @@ Use Issho to create, and collaborate on online documents. Edit together with sec
 <br>
 <br>
 <br>
-
+<p align="center">
 ### Preview 📰 your work before sending it into the prrrrrinter. 
+</p>
 <br>
 
 <p align="center">
