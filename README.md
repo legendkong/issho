@@ -12,8 +12,7 @@ Back-End: <br>
 [Mongoose](https://mongoosejs.com/)<br>
 <br>
 
-## Features
-Use Issho to create, and collaborate on online documents. Edit together with secure sharing in real-time and from any device.
+## Use Issho to create, and collaborate on online documents. Edit together with secure sharing in real-time and from any device.
 <br>
 <p align="center">
   <img src="https://github.com/legendkong/issho/blob/master/readme_images/collaborate.png?raw=true" width="800">
@@ -22,7 +21,7 @@ Use Issho to create, and collaborate on online documents. Edit together with sec
 <br>
 <br>
 <br>
-Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
+### Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
 <br>
 <p align="center">
   <img src="https://github.com/legendkong/issho/blob/master/readme_images/insertimages.png?raw=true" width="800"> <br>
