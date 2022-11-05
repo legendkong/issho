@@ -21,7 +21,9 @@ Use Issho to create, and collaborate on online documents. Edit together with sec
 <br>
 <br>
 <br>
-### Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
+
+## Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
+
 <br>
 <p align="center">
   <img src="https://github.com/legendkong/issho/blob/master/readme_images/insertimages.png?raw=true" width="800"> <br>
