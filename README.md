@@ -22,7 +22,7 @@ Use Issho to create, and collaborate on online documents. Edit together with sec
 <br>
 <br>
 
-Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
+### Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you can easily insert images, change font styles, highlight text, and more.
 <br>
 
 <p align="center">
@@ -54,7 +54,7 @@ Magic 🧙‍♂️ within your fingertips. Equipped with a modern toolbar, you 
 <br>
 <br>
 
-Preview 📰 your work before sending it into the prrrrrinter. 
+### Preview 📰 your work before sending it into the prrrrrinter. 
 <br>
 
 <p align="center">
